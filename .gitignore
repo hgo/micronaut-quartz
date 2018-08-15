@@ -1,0 +1,8 @@
+target
+.ideaDataSources
+.mvn
+datasources
+dependency-reduced-pom.xml
+*.iml
+*.ipr
+*.iws

@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: quartz.retry
+---
+testFramework: junit
+sourceLanguage: java

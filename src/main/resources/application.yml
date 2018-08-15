@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: quartz-retry
+                
+#Uncomment to set server port
+    server:
+        port: 1234
